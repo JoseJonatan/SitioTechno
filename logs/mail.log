@@ -1,0 +1,21 @@
+2019-10-14 19:03:40 u98823329 0EAySw-1iIANh32Lp-00FW38 |< REMOTE=148.204.64.0 SCRIPT=/sendemail.php -- /usr/sbin/sendmail -t -i
+2019-10-14 19:03:40 u98823329 0EAySw-1iIANh32Lp-00FW38 <= S=noreply@tehno-fly.com.mx SZ=652 D=0 SID=801359818
+2019-10-14 19:03:40 u98823329 0EAySw-1iIANh32Lp-00FW38 EE transaction error after mail command: msmtp.perfora.net[172.19.143.3] 550 Requested action not taken: mailbox unavailable invalid DNS MX or A/AAAA resource record
+2019-10-14 19:10:02 u98823329 0E3njs-1iOqZl2IvD-005Eap |< REMOTE=148.204.63.0 SCRIPT=/sendemail.php -- /usr/sbin/sendmail -t -i
+2019-10-14 19:10:02 u98823329 0E3njs-1iOqZl2IvD-005Eap <= S=noreply@tehno-fly.com.mx SZ=640 D=0 SID=801359818
+2019-10-14 19:10:02 u98823329 0E3njs-1iOqZl2IvD-005Eap EE transaction error after mail command: msmtp.perfora.net[172.19.143.3] 550 Requested action not taken: mailbox unavailable invalid DNS MX or A/AAAA resource record
+2019-10-14 19:10:42 u98823329 0EjUCf-1hjVLE1vK6-00pIt7 |< REMOTE=148.204.64.0 SCRIPT=/sendemail.php -- /usr/sbin/sendmail -t -i
+2019-10-14 19:10:42 u98823329 0EjUCf-1hjVLE1vK6-00pIt7 <= S=noreply@tehno-fly.com.mx SZ=652 D=0 SID=801359818
+2019-10-14 19:10:42 u98823329 0EjUCf-1hjVLE1vK6-00pIt7 EE transaction error after mail command: msmtp.perfora.net[172.19.143.3] 550 Requested action not taken: mailbox unavailable invalid DNS MX or A/AAAA resource record
+2019-10-15 00:57:29 u98823329 0EiviJ-1hbJl73XHQ-00jDlV |< REMOTE=189.216.129.0 SCRIPT=/sendemail.php -- /usr/sbin/sendmail -t -i
+2019-10-15 00:57:29 u98823329 0EiviJ-1hbJl73XHQ-00jDlV <= S=info@techno-fly.com.mx SZ=649 D=0 SID=801359818
+2019-10-15 00:57:29 u98823329 0EiviJ-1hbJl73XHQ-00jDlV => info@techno-fly.com.mx msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0LpuUb-1hok1u3e0F-00fhGq
+2019-10-15 01:01:48 u98823329 0EZpAy-1hkMFX0VbL-00bFDp |< REMOTE=189.216.129.0 SCRIPT=/sendemail.php -- /usr/sbin/sendmail -t -i
+2019-10-15 01:01:48 u98823329 0EZpAy-1hkMFX0VbL-00bFDp <= S=info@techno-fly.com.mx SZ=684 D=0 SID=801359818
+2019-10-15 01:01:48 u98823329 0EZpAy-1hkMFX0VbL-00bFDp => info@techno-fly.com.mx msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0M41XI-1i3G2w0vFy-00rbnk
+2019-10-15 01:02:33 u98823329 0Dxivy-1iMAuu1JRx-002DAT |< REMOTE=189.216.129.0 SCRIPT=/sendemail.php -- /usr/sbin/sendmail -t -i
+2019-10-15 01:02:33 u98823329 0Dxivy-1iMAuu1JRx-002DAT <= S=noreply@techno-fly.com.mx SZ=692 D=0 SID=801359818
+2019-10-15 01:02:33 u98823329 0Dxivy-1iMAuu1JRx-002DAT => info@techno-fly.com.mx msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=1N7yr1-1hybJy1QIt-0152q2
+2019-10-15 01:04:20 u98823329 0E0UMG-1iJPvP1Wy7-001fZZ |< REMOTE=189.216.129.0 SCRIPT=/sendemail.php -- /usr/sbin/sendmail -t -i
+2019-10-15 01:04:20 u98823329 0E0UMG-1iJPvP1Wy7-001fZZ <= S=desdeelsitio@techno-fly.com.mx SZ=691 D=0 SID=801359818
+2019-10-15 01:04:20 u98823329 0E0UMG-1iJPvP1Wy7-001fZZ => info@techno-fly.com.mx msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=1N6tSF-1hziHr1dtP-018M95
